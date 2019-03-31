@@ -1,13 +1,12 @@
 ## Weather App
-====================================
+
 - Type the following command
 
 ```
 npm install --save
 ```
-====================================
+
 - Use
 ```
 node app -d "New York"
 ```
-====================================
